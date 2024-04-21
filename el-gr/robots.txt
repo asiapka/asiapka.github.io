@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://asiapka.github.io/sitemap.xml
