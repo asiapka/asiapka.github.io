@@ -7,12 +7,12 @@ contact_note: Você pode até adicionar uma pequena observação sobre qual dess
 footer_text: > # the ">" symbol means to ignore newlines until "titles:"
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-latest_posts: últimas postagens
-news: novidades
+latest_posts: πρόσφατες δημοσιεύσεις
+news: νέα
 selected_publications: επιλεγμένες δημοσιεύσεις
 name: Αναστασία
 surname: Σιάπκα
-site_description: Um tema simples para acadêmicos. Baseado no design do [*folio](https://github.com/bogoli/-folio).
+site_description: Αναστασία Σιάπκα - Τεχνητή Νοημοσύνη, Νομική, Φιλοσοφία, Μέλλον της Εργασίας
 archive_category: um arquivo de postagens desta categoria
 archive_tag: um arquivo de postagens com este marcador
 archive_year: um arquivo de postagens deste ano
