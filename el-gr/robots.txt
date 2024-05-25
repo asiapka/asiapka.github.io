@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://asiapka.github.io/sitemap.xml
+Sitemap: https://anastasiasiapka.com//sitemap.xml
