@@ -26,6 +26,8 @@ paradigm based on Aristotle’s ethics and politics. In discussing the building 
 paradigm, I identify human flourishing as the key evaluative criterion and, accordingly, the ultimate objective of law and policy. Hence, virtue jurisprudence and the capability approach, as adaptations of the paradigm in the legal and political order, respectively, are applied to the future of work debate. Having addressed objections against both applications, the thesis ends by assessing the merits and limitations of the paradigm and formulating recommendations for researchers, law- and policy-makers, technologists, educators, and citizens.  </p>
 
 <p>Overall, being grounded in Aristotelian flourishing, this paradigm departs from the predictive, utilitarian, and work-centred ones prevalent in the literature, promising a distinct perspective on what AI promises to liberate us from and towards. </p>
+
+<p>Supervisor: Professor Anton Vedder</p>
   </div>
   <div class="col-sm-4">
     <img src="{{ site.baseurl }}/assets/img/Siapka_Work_AI_Aristotle_PhD_Cover.png" alt="PhD Cover Image" class="img-fluid">
